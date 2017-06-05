@@ -23,8 +23,11 @@ Understanding the Linux File System will clear out a lot of questions.
 * ...
 
 **NO CONTROL PANEL**
+
 **NO USER MANAGEMENT**
+
 **NO REGISTRY**
+
 
 There is tools that could help with the above but all these still is edits a file.
 
