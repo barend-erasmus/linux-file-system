@@ -32,6 +32,8 @@ There is tools that could help with the above but all these still is edits a fil
 
 Here is a list of the most commonly used directories in the Linux File System. There are a few which we'll not cover as it is optional or distribution specific.
 
+![](https://github.com/barend-erasmus/linux-file-system/raw/master/screenshots/linux-filesystem.png)
+
 ### / – The Root Directory
 
 Everything on your Linux system is located under the / directory, known as the root directory.
