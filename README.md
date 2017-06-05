@@ -50,28 +50,52 @@ Remember everything is a file, including devices. Examples would be CPU, Keyboar
 
 ### /etc – Configuration Files
 
+The /etc directory contains configuration files, which can generally be edited by hand in a text editor.
+
 ### /home – Home Folders
+
+The /home directory contains a home folder for each user.
 
 ### /lib – Essential Shared Libraries
 
+The /lib directory contains libraries needed by the essential binaries in the /bin and /sbin folder.
+
 ### /media – Removable Media
 
-### /mnt – Temporary Mount Points
+The /media directory contains subdirectories where removable media devices inserted into the computer are mounted.
 
 ### /opt – Optional Packages
 
+The /opt directory contains subdirectories for optional software packages.
+
 ### /proc – Kernel & Process Files
+
+The /proc directory similar to the /dev directory because it doesn’t contain standard files. 
 
 ### /root – Root Home Directory
 
+The /root directory is the home directory of the root user.
+
 ### /run – Application State Files
+
+The /run directory is fairly new, and gives applications a standard place to store transient files they require like sockets and process IDs.
 
 ### /sbin – System Administration Binaries
 
+The /sbin directory is similar to the /bin directory. It contains essential binaries that are generally intended to be run by the root user for system administration.
+
 ### /srv – Service Data
+
+The /srv directory contains “data for services provided by the system.”
 
 ### /tmp – Temporary Files
 
+Applications store temporary files in the /tmp directory. These files are generally deleted whenever your system is restarted.
+
 ### /usr – User Binaries & Read-Only Data
 
+The /usr directory contains applications and files used by users, as opposed to applications and files used by the system.
+
 ### /var – Variable Data Files
+
+The /var directory is the writable counterpart to the /usr directory, which must be read-only in normal operation.
